@@ -1,0 +1,6 @@
+export { truncateText } from './truncateText'
+export { areArraysIdentical } from './areArraysIdentical'
+export { capitalizeFirstLetter } from './capitalizeFirstLetter'
+export { getObjectLength } from './getObjectLength'
+export { removeHtmlTags } from './removeHtmlTags'
+export { replaceNullInArrayWithDash } from './replaceNullInArrayWithDash'
